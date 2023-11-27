@@ -1,52 +1,58 @@
-# Lab X: Title
+# Lab 4: Scaffolding reproducible research
 
 <!-- 
-
 - [ ] Create dev container
-  - Set up packages to load
-    - tidyverse, quarto, qtalrkit, ... 
-- [ ] Create lab
-  - Add objectives
-  - Add instructions
-  - Add assessment
  -->
-
-
-<!-- NOTE: 
-- [ ] Add helpful tips for readers
--->
 
 ## Preparation
 
-- Read/ annotate: ...
+- Read/ annotate: [Recipe \#4](https://qtalr.github.io/qtalrkit/articles/recipe-4.html). You can refer back to this document to help you at any point during this lab activity.
 
 ## Objectives
 
-- ...
-- ...
+- Review using Git and Github to clone a repository
+- Apply new Git and Github skills to fork, clone, commit, and push changes to a repository
+- Establish a workflow for reproducible research using Quarto and Git
 
 ## Instructions
 
-### ...
+### Getting started
+
+In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following: 
+
+- [Minimal template](https://github.com/qtalr/project)
+- [Web-based project template](https://github.com/qtalr/project_web)
+- Other (consult your instructor)
+
+### Scaffolding reproducible research
+
+1. Fork the repository you selected to your own Github account
+
+2. Clone the repository to your local machine
+
+3. Open the README file and review the template configuration
+
+4. Customize and execute the project
+
+5. Commit and push your changes to your forked repository
+
 
 ### Assessing your progress
 
-1. Add a section which describes your learning in this lab
+1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 4 feedback" and provide your feedback in the body of the issue.
 
 Some questions to consider: 
 
   - What did you learn?
-  - What was most/ least challenging?
-  - What resources did you consult? Instructor? Websites (provide links)?
-  - What more would you like to know about literate programming and/ or Quarto?
+  - What did you find most/ least challenging?
+  - What resources did you consult? 
+    - Instructor? R or Quarto documentation, Websites (provide links)?
+  - What more would you like to know about reproducible research?
+    - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
-- [ ] Consider options for submitting work
-  - Submit work as a pull request to the `main` branch of the course repository
-  - Knit and upload to CMS (e.g., Canvas)
-  - Knit and email to instructor
-  - ...
+- Provide a link to your GitHub repository
 
 ## License
 
