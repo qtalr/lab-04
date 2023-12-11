@@ -1,4 +1,4 @@
-# Lab 4: Scaffolding reproducible research
+# Lab 04: Scaffolding reproducible research
 
 <!-- 
 - [ ] Create dev container
