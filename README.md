@@ -1,6 +1,6 @@
 # Lab 04: Scaffolding reproducible research
 
-<!-- 
+<!--
 - [ ] Create dev container
  -->
 
@@ -18,7 +18,7 @@
 
 ### Getting started
 
-In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following: 
+In this lab, you will be using Git and Github to fork, clone, commit, and push changes to a repository. The repository you will select to use as the repository to fork to your own Github account can be one of the following:
 
 - [Minimal template](https://github.com/qtalr/project)
 - [Web-based project template](https://github.com/qtalr/project_web)
@@ -39,13 +39,13 @@ In this lab, you will be using Git and Github to fork, clone, commit, and push c
 
 ### Assessing your progress
 
-1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 4 feedback" and provide your feedback in the body of the issue.
+1. In your repository on Github, open an issue to provide feedback on your experience with this lab (Click on the 'Issues' tab and then click the 'New issue' button). Title the issue "Lab 04 feedback" and provide your feedback in the body of the issue.
 
-Some questions to consider: 
+Some questions to consider:
 
   - What did you learn?
   - What did you find most/ least challenging?
-  - What resources did you consult? 
+  - What resources did you consult?
     - Instructor? R or Quarto documentation, Websites (provide links)?
   - What more would you like to know about reproducible research?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
