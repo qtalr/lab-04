@@ -1,9 +1,5 @@
 # Lab 04: Scaffolding reproducible research
 
-<!--
-- [ ] Create dev container
- -->
-
 ## Preparation
 
 - Read/ annotate: [Recipe \#4](https://qtalr.github.io/qtalrkit/articles/recipe-4.html). You can refer back to this document to help you at any point during this lab activity.
@@ -35,7 +31,6 @@ In this lab, you will be using Git and Github to fork, clone, commit, and push c
 4. Customize and execute the project
 
 5. Commit and push your changes to your forked repository
-
 
 ### Assessing your progress
 
