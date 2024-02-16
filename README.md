@@ -43,7 +43,7 @@ Furthermore, if you have questions about the lab, or you have technical issues, 
     - What is the difference between the 'computing environment' and the 'project structure'?
     - How does Git and GitHub support reproducible research practices?
 
-4. In the section "Project management", describe the process of forking, cloning, editing, committing, and pushing changes to a repository ([Scenario A](https://qtalr.github.io/qtalrkit/articles/recipe-4.html)). Create a step-by-step guide that you can use to refer back to in the future. *Include bullet points, useful links, screenshots, and/ or code snippets to help illustrate your process.*
+4. In the section "Project management", describe the process of forking, cloning, editing, committing, and pushing changes to a repository ([Scenario B](https://qtalr.github.io/qtalrkit/articles/recipe-4.html)). Create a step-by-step guide that you can use to refer back to in the future. *Include bullet points, useful links, screenshots, and/ or code snippets to help illustrate your process.*
 
 ### Assessing your progress
 
